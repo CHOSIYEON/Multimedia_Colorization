@@ -54,6 +54,6 @@ We tried to optimize the model by trying various things. The final model is as b
 
 # Testing 
 <p>
-  <img height="300" src="https://user-images.githubusercontent.com/63833392/120275959-06ad7200-c2ed-11eb-96bf-c811035d990d.png"> &nbsp
-  <img height="300" src="https://user-images.githubusercontent.com/63833392/120275970-0a40f900-c2ed-11eb-9473-8fc66469c8e4.png"> &nbsp
+  <img height="200" src="https://user-images.githubusercontent.com/63833392/120275959-06ad7200-c2ed-11eb-96bf-c811035d990d.png"> &nbsp
+  <img height="200" src="https://user-images.githubusercontent.com/63833392/120275970-0a40f900-c2ed-11eb-9473-8fc66469c8e4.png"> &nbsp
 </p>
